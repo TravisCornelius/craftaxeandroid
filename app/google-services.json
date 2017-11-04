@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "448556523540",
+    "firebase_url": "https://craft-axe-throwing.firebaseio.com",
+    "project_id": "craft-axe-throwing",
+    "storage_bucket": "craft-axe-throwing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448556523540:android:c6f4b7b7208ed315",
+        "android_client_info": {
+          "package_name": "com.mybringback.traviscornelius.craftaxethrowing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448556523540-uaqp3ddigj06m99e7bk6d123na519ckc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mybringback.traviscornelius.craftaxethrowing",
+            "certificate_hash": "7e49d9852aa902cb8bb13ddb545e8acf5c70f620"
+          }
+        },
+        {
+          "client_id": "448556523540-vodu8mpnn2fh0s3gjv50cjs84edfit8k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9gRR8lHCF2oB_13zYOv6yKGey6bbYIgA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448556523540-vodu8mpnn2fh0s3gjv50cjs84edfit8k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
